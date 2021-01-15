@@ -1,8 +1,5 @@
 # jhipsterSampleApplication
 
-** MODIFIED FOR PIPELINE**
-** MODIFIED FOR PIPELINE**
-** MODIFIED FOR PIPELINE**
 This application was generated using JHipster 6.10.5 and JHipster Quarkus 0.2.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.10.5](https://www.jhipster.tech/documentation-archive/v6.10.5).
 
 ## Development
